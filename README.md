@@ -121,7 +121,10 @@ Showcase state-wise hunger alleviation schemes and their impact.
 Enable data monitoring and feedback collection to support policy and citizen engagement.
 
 🎯 About SDG 2 – Zero Hunger
-Goal: End hunger, achieve food security and improved nutrition, and promote sustainable agriculture by 2030.
+
+Goal: 
+
+End hunger, achieve food security and improved nutrition, and promote sustainable agriculture by 2030.
 
 Key Focus Areas:
 
@@ -132,16 +135,21 @@ Supporting sustainable agriculture
 Enhancing food access for vulnerable populations
 
 🛠️ Features of the Reused Website
+
 📍 State-wise Schemes Display
+
 Showcases government initiatives like Mid-Day Meal, Amma Canteens, Shiv Bhojan, etc.
 
 📊 Interactive Dashboards
+
 Visualizations for food security metrics and hunger index by state.
 
 📚 Awareness Content
+
 Articles, infographics, and educational materials on hunger and nutrition.
 
 📝 Feedback & Reporting Module
+
 Allows users to report food scarcity or malnutrition-related concerns.
 
 🏛️ Sample Schemes by State
