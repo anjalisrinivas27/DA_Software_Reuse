@@ -153,11 +153,27 @@ Articles, infographics, and educational materials on hunger and nutrition.
 Allows users to report food scarcity or malnutrition-related concerns.
 
 🏛️ Sample Schemes by State
+
 State	Key Initiatives
-Tamil Nadu	Amma Unavagam, Mid-day Meal
-Kerala	Community Kitchens, Hunger-Free Kerala
-Maharashtra	Shiv Bhojan Thali, Tribal Nutrition Programs
-Uttar Pradesh	Ration Card Digitization, NFSA
+
+Tamil Nadu
+
+Amma Unavagam, Mid-day Meal
+
+
+Kerala	
+
+Community Kitchens, Hunger-Free Kerala
+
+
+Maharashtra	
+
+Shiv Bhojan Thali, Tribal Nutrition Programs
+
+
+Uttar Pradesh	
+
+Ration Card Digitization, NFSA
 
 🔁 Software Reuse Highlights
 ✅ Why Software Reuse?
