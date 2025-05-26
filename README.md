@@ -108,10 +108,10 @@ Software reuse is the process of using existing software components (code, desig
 ---
 
 
-🌾 Zero Hunger SDG Website – Reusing Software for Impact
+# 🌾 Zero Hunger SDG Website – Reusing Software for Impact
 This project is a software reuse initiative aimed at promoting Sustainable Development Goal (SDG) 2 – Zero Hunger by adapting and enhancing code from an existing SDG website. The objective is to build a more localized, efficient, and user-friendly platform that raises awareness and tracks the implementation of hunger eradication programs across Indian states.
 
-🚀 Project Purpose
+# 🚀 Project Purpose
 Reuse existing SDG website code to minimize development time and cost.
 
 Promote awareness of hunger issues and nutritional needs.
@@ -120,13 +120,13 @@ Showcase state-wise hunger alleviation schemes and their impact.
 
 Enable data monitoring and feedback collection to support policy and citizen engagement.
 
-🎯 About SDG 2 – Zero Hunger
+# 🎯 About SDG 2 – Zero Hunger
 
-Goal: 
+# Goal: 
 
 End hunger, achieve food security and improved nutrition, and promote sustainable agriculture by 2030.
 
-Key Focus Areas:
+# Key Focus Areas:
 
 Eradicating malnutrition
 
@@ -134,44 +134,45 @@ Supporting sustainable agriculture
 
 Enhancing food access for vulnerable populations
 
-🛠️ Features of the Reused Website
+
+## 🛠️ Features of the Reused Website
 
 📍 State-wise Schemes Display
 
 Showcases government initiatives like Mid-Day Meal, Amma Canteens, Shiv Bhojan, etc.
 
-📊 Interactive Dashboards
+# 📊 Interactive Dashboards
 
 Visualizations for food security metrics and hunger index by state.
 
-📚 Awareness Content
+# 📚 Awareness Content
 
 Articles, infographics, and educational materials on hunger and nutrition.
 
-📝 Feedback & Reporting Module
+# 📝 Feedback & Reporting Module
 
 Allows users to report food scarcity or malnutrition-related concerns.
 
-🏛️ Sample Schemes by State
+## 🏛️ Sample Schemes by State
 
-State	Key Initiatives
+# State	Key Initiatives
 
-Tamil Nadu
+# Tamil Nadu
 
 Amma Unavagam, Mid-day Meal
 
 
-Kerala	
+# Kerala	
 
 Community Kitchens, Hunger-Free Kerala
 
 
-Maharashtra	
+# Maharashtra	
 
 Shiv Bhojan Thali, Tribal Nutrition Programs
 
 
-Uttar Pradesh	
+# Uttar Pradesh	
 
 Ration Card Digitization, NFSA
 
