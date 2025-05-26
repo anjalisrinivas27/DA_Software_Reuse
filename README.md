@@ -157,27 +157,29 @@ Allows users to report food scarcity or malnutrition-related concerns.
 
 # State	Key Initiatives
 
-# Tamil Nadu
+Tamil Nadu
 
 Amma Unavagam, Mid-day Meal
 
 
-# Kerala	
+Kerala	
 
 Community Kitchens, Hunger-Free Kerala
 
 
-# Maharashtra	
+Maharashtra	
 
 Shiv Bhojan Thali, Tribal Nutrition Programs
 
 
-# Uttar Pradesh	
+Uttar Pradesh	
 
 Ration Card Digitization, NFSA
 
 🔁 Software Reuse Highlights
+
 ✅ Why Software Reuse?
+
 Faster development
 
 Cost-effective
@@ -186,14 +188,20 @@ Reliable and tested components
 
 Easier maintenance
 
-⚠️ Challenges Faced
+---
+
+# ⚠️ Challenges Faced
+
 Adapting legacy code to new frameworks
 
 Lack of documentation
 
 UI/UX redesign for mobile usability
 
-🌟 Benefits Realized
+---
+
+# 🌟 Benefits Realized
+
 40% faster development
 
 Improved site performance (35% faster load time)
@@ -202,7 +210,7 @@ Modular and scalable backend
 
 Greater user engagement through interactive features
 
-📈 Tech Stack
+# 📈 Tech Stack
 Frontend: HTML, CSS, JavaScript (Reused and modified)
 
 Backend: Node.js (Extended for modularity)
@@ -211,7 +219,8 @@ Database: MongoDB (for feedback and scheme tracking)
 
 Visualization: Chart.js, Google Maps API
 
-✅ Outcomes
+# ✅ Outcomes
+
 Deployed an efficient, educational platform for SDG 2.
 
 Enabled public interaction and policy tracking.
