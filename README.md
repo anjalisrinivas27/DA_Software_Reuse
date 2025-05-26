@@ -111,7 +111,5 @@ Software reuse is the process of using existing software components (code, desig
 
 By reusing code from an existing SDG Zero Hunger website, this project successfully delivered a cost-effective and impactful solution to raise awareness and track hunger eradication efforts across Indian states. The project demonstrates how software reuse, when planned well, can lead to efficient, reliable, and scalable digital solutions.
 
----
 
-Would you like this formatted as a report or slide deck too?
  
