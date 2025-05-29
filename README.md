@@ -78,6 +78,7 @@ Software reuse is the process of using existing software components (code, desig
 * Enhance reliability.
 
 * Lower maintenance cost.
+
 * Promote standardization.
 
 ---
