@@ -38,6 +38,7 @@ End hunger, achieve food security and improved nutrition, and promote sustainabl
 ## **Key Features of the Developed Website:**
 
 * **Localized Scheme Display:** Displays various hunger-related schemes implemented by Indian states.
+
 * **Awareness Section:** Provides educational content on hunger and nutrition.
 * **Monitoring Dashboard:** Tracks key hunger metrics and progress in different regions.
 * **Interactive Maps and Charts:** Show hunger index and related statistics visually.
