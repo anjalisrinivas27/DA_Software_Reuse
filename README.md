@@ -40,6 +40,7 @@ End hunger, achieve food security and improved nutrition, and promote sustainabl
 * **Localized Scheme Display:** Displays various hunger-related schemes implemented by Indian states.
 
 * **Awareness Section:** Provides educational content on hunger and nutrition.
+
 * **Monitoring Dashboard:** Tracks key hunger metrics and progress in different regions.
 * **Interactive Maps and Charts:** Show hunger index and related statistics visually.
 * **Feedback & Reporting System:** Allows users to report food-related issues in their area.
