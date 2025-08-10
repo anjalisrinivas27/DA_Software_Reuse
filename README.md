@@ -198,7 +198,6 @@ Reliable and tested components
 
 Easier maintenance
 
----
 
 # ⚠️ Challenges Faced
 
