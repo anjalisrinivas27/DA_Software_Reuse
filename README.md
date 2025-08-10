@@ -47,7 +47,7 @@ End hunger, achieve food security and improved nutrition, and promote sustainabl
 
 * **Feedback & Reporting System:** Allows users to report food-related issues in their area.
 
----
+
 
 ## **State-wise Implementation & Hunger Alleviation Schemes:**
 
