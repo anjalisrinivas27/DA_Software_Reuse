@@ -97,7 +97,7 @@ Software reuse is the process of using existing software components (code, desig
 * **Documentation Gaps:** Incomplete documentation made reuse harder.
 * **UI/UX Adaptation:** The original design was not mobile-friendly and had to be redesigned.
 
----
+
 
 ## **Advantages of Software Reuse:**
 
@@ -106,7 +106,7 @@ Software reuse is the process of using existing software components (code, desig
 * **Consistency:** Improved software quality through tested components.
 * **Maintainability:** Easier to manage updates using a modular structure.
 
----
+
 
 ## **Efficiency of the Developed Website:**
 
@@ -115,7 +115,7 @@ Software reuse is the process of using existing software components (code, desig
 * **Scalability:** Modular backend allows easy addition of new schemes and state data.
 * **Analytics:** Integrated dashboards help track user interactions and data usage trends.
 
----
+
 
 
 # 🌾 Zero Hunger SDG Website – Reusing Software for Impact
@@ -207,7 +207,7 @@ Lack of documentation
 
 UI/UX redesign for mobile usability
 
----
+
 
 # 🌟 Benefits Realized
 
