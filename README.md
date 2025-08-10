@@ -5,7 +5,6 @@ The DA was regarding the resusing of the software code.
 Here’s a brief project description based on your requirements, covering **software reuse** with a focus on the **SDG 2: Zero Hunger** website:
 
 
-
 ## **Project Title:**
 
 **Reusing SDG "Zero Hunger" Website Code for an Awareness and Monitoring Platform**
