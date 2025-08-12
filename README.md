@@ -107,7 +107,7 @@ Software reuse is the process of using existing software components (code, desig
 
 
 
-## **Efficiency of the Developed Website:**
+## **Efficiency of the Developed Website :**
 
 * **Performance:** Loads 35% faster compared to original SDG site due to code optimization.
 * **Usability:** Designed with better UX for low-literacy users.
