@@ -17,7 +17,7 @@ This project focuses on **software reuse** by redeveloping a website that aligns
 
 
 
-## **About SDG 2 – Zero Hunger:**
+## **About SDG 2 – Zero Hunger :**
 
 **Goal:**
 End hunger, achieve food security and improved nutrition, and promote sustainable agriculture by 2030.
