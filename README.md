@@ -89,7 +89,7 @@ Software reuse is the process of using existing software components (code, desig
 
 
 
-## **Challenges Faced During Reuse:**
+## **Challenges Faced During Reuse :**
 
 * **Code Compatibility Issues:** Adapting older code with new frameworks or standards.
 * **Customization Limitations:** Reused components often needed modifications for localization.
