@@ -72,7 +72,7 @@ End hunger, achieve food security and improved nutrition, and promote sustainabl
 
 
 
-## **About Software Reuse:**
+## **About Software Reuse :**
 
 **Definition:**
 Software reuse is the process of using existing software components (code, designs, modules) to build new applications with reduced cost and time.
@@ -240,7 +240,7 @@ Let's reuse with purpose. Build smarter. Impact faster.
 Let me know if you'd like a markdown version or GitHub badges (e.g., license, live demo, tech used) for this too!
 
 
-## **Conclusion:**
+## **Conclusion :**
 
 By reusing code from an existing SDG Zero Hunger website, this project successfully delivered a cost-effective and impactful solution to raise awareness and track hunger eradication efforts across Indian states. The project demonstrates how software reuse, when planned well, can lead to efficient, reliable, and scalable digital solutions.
  
