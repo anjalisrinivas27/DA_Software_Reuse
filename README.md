@@ -34,7 +34,7 @@ End hunger, achieve food security and improved nutrition, and promote sustainabl
 
 
 
-## **Key Features of the Developed Website:**
+## **Key Features of the Developed Website :**
 
 * **Localized Scheme Display:** Displays various hunger-related schemes implemented by Indian states.
 
