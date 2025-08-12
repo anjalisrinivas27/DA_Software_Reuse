@@ -98,7 +98,7 @@ Software reuse is the process of using existing software components (code, desig
 
 
 
-## **Advantages of Software Reuse:**
+## **Advantages of Software Reuse :**
 
 * **Time Efficiency:** Development was 40% faster than a fully custom solution.
 * **Cost Saving:** Reduced effort in coding and testing.
